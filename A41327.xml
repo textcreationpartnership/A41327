@@ -1,0 +1,1005 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Meditations upon Mr. Baxter's review of his treatise of the duty of heavenly meditation in answer to the exceptions of Giles Firmin, against some things in that treatise concerning meditation : published for the satisfaction of many sincere Christians troubled at their inability to perform that duty as the said author (and some others with him) have described it and charged it / by Giles Firmin.</title>
+            <author>Firmin, Giles, 1614-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41327</idno>
+            <idno type="STC">Wing F957</idno>
+            <idno type="STC">ESTC R43172</idno>
+            <idno type="EEBO-CITATION">26949383</idno>
+            <idno type="OCLC">ocm 26949383</idno>
+            <idno type="VID">109876</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109876)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1717:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Meditations upon Mr. Baxter's review of his treatise of the duty of heavenly meditation in answer to the exceptions of Giles Firmin, against some things in that treatise concerning meditation : published for the satisfaction of many sincere Christians troubled at their inability to perform that duty as the said author (and some others with him) have described it and charged it / by Giles Firmin.</title>
+                  <author>Firmin, Giles, 1614-1697.</author>
+               </titleStmt>
+               <extent>[1], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baxter, Richard, 1615-1691. --  Duty of heavenly meditation.</term>
+               <term>Firmin, Giles, 1614-1697. --  Real Christian.</term>
+               <term>Meditation --  Christianity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109876:1" rendition="simple:additions"/>
+            <p>MEDITATIONS UPON M<hi rend="sup">r</hi> Baxter's Review of <hi>His</hi> Treatiſe of the Duty of <hi>HEAVENLY MEDITATION.</hi> IN Anſwer to the Exceptions of <hi>GILES FIRMIN,</hi> Againſt ſome things in that Treatiſe concerning <hi>MEDITATION.</hi>
+            </p>
+            <p>PUBLISHED <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r the ſatisfaction of many ſincere Chriſtians, troubled at their inability to perform that Duty as the ſaid Author (and ſome others with him) have deſcribed it and charged it.</p>
+            <p>
+               <hi>By</hi> GILES FIRMIN.</p>
+            <p>Printed in the Year 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:109876:2"/>
+            <pb facs="tcp:109876:2"/>
+            <head>Meditations upon the Chriſtian Duty of <hi>Meditation.</hi>
+            </head>
+            <p>THat Goſpel-Converſion, and Goſpel-Co<g ref="char:cmbAbbrStroke">̄</g>verſation are not things ſo eaſie as carnal-goſpellers take them to be, the dayly experience of ſincere converts, do ſufficiently teſtifie. To make theſe more <hi>eaſie</hi> than God hath made them, is very dange<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and of deſtructive conſequence to the ſouls of men. To make <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m more <hi>difficult</hi> than God hath made them, is to lay a block in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay of the unconverted, and very injurious to the really converted. So <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce it is, what <hi>Calvin</hi> ſaith in another caſe. <hi>Valde periculoſum eſt auctio<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>laqueos induere conſcientiis, quam quibus Verb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dei ſtringantur.</hi>
+            </p>
+            <p>Whither ſome holy men, whoſe names are very precious in the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rch of Chriſt, have not exceeded in the latter, I did in my Treatiſe the <hi>Real-Christian,</hi> with honourable reſpects to their names, ſoberly <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſider, and I thought I might do it without any offence. For ſhall we <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r ſerious Chriſtians, that were in earneſt for Heaven, and proving of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mſelves, very ſadly concluding againſt their regeneration, becauſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y have not experienced ſuch works, as ſuch holy men have Preached <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Printed muſt be in true converts; and others crying out, if this be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Duty that God requires, which ſuch an eminent man, with earneſt<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of ſpirit calls for, then we muſt neve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> come in Heaven, and ſhall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not have the liberty, with the men of <hi>Berea</hi> to examine theſe things the Scriptures, whether they agree with them or no?</p>
+            <p>Object. It may be you will ſay, <hi>you ſhould have concealed their names.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> This is the Objection of thoſe who never <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound that trouble <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe points, which others have done: and poſſibly becauſe they <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ot read the books with that application to their own hearts, which <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y ought to do. Let ſuch hold their peace. For others who have <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d the trouble, they will ſay, if I had left out their <hi>Names,</hi> I had left <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>ſtrongeſt argument.</hi> For they being men as of eminent parts and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, ſo of very high eſteem with Chriſtians. It was their <hi>Names</hi> that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Authority to their Doctrines, and cauſed that trouble to divers ſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es Chriſtians. For my part, had I met with ſuch things in the works ſome other men, I could as eaſily have paſſed them over, as I do that <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>perate</hi> [I know not what elſe to call it] Divinity, which I meet with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame young mens books, put forth in the heat of their affections: but
+<pb n="3" facs="tcp:109876:3"/>theſe being men ſo eminent, and all of them [except holy Mr. <hi>Perkins,</hi> dead before my time] known unto me, the high eſteem I beat unto their names, made me to conſider my ſelf, and ſee whether in thoſe par<g ref="char:EOLhyphen"/>ticulars, they ſpake as God ſpake; for if ſo; not only my ſelf, but the greateſt number of thoſe who go for ſound Chriſtians [a hundred for one] muſt all begin again.</p>
+            <p>Beſides I could not well tell how to referr my Reader to the Pages of a book, or give him my reply to a Letter written to me as an anſwer to what I had objected againſt ſuch a point in the book, without the name<g ref="char:EOLhyphen"/>ing of the Authors, But were all mens names treated with that honour I have done theirs, I think there would be no complaint.</p>
+            <p>Obj. <hi>Why did you not write while they were living.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. While they lived, I was but a novice in the ſtudy of Divini<g ref="char:EOLhyphen"/>ty as a Miniſter. 2. I did write to M<hi rend="sup">r</hi>. <hi>Shephard,</hi> and give you an ac<g ref="char:EOLhyphen"/>count of it. 3. I found after their death, more experience of the trou<g ref="char:EOLhyphen"/>ble thoſe points had cauſed. 4. I know they have ſucceſſors, able to anſwer, if Chriſt and his Apoſtles did ſo Preach.</p>
+            <p>Towards the cloſe of my book, I touched upon <hi>Meditation,</hi> which I ſaw by a perſon of eminent abilities, was driven to ſuch a height, made ſo difficult, and yet charged with ſuch vehemency, that many ſetious Chriſtians, being not able to come neer it, were rather ſcared and diſ<g ref="char:EOLhyphen"/>couraged, then drawn unto their Duty. The queſtion therefore I diſ<g ref="char:EOLhyphen"/>cuſſed was this.</p>
+            <p>Qu. <hi>Whether every day, as duly as we Pray; ſo we muſt ſet a part one hour, or half an hour for the duty of Meditation: and more eſpecially in meditating of the joyes of Heaven: and making it for that time our whole work, and intermix other matters with it no more, then we would do with Prayer?</hi>
+            </p>
+            <p>Who was the Author, I mentioned not ſo much as one Letter of his name, but only that a <hi>Learned and Reverend Author</hi> had delivered it. Mr. <hi>Baxter</hi> takes himſelf to be that Learned and Reverend Author meant, and vindicates himſelf, his Book, I ſaw not till <hi>Auguſt</hi> 1671. I drew up my reply to it, ſo ſoon as I ſaw it, but was not determin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to publiſh it till now: which I am the more enduced to, from the conſideration of the great complaints I have heard Chriſtians make againſt themſelves about this duty of <hi>Meditation,</hi> eſpecially upon their hearing of ſome mens Sermons, and reading ſome books upon it. If God requireth that Duty of us, ſaid ſome, as Mr. <hi>Baxter</hi> doth, we muſt not go to Heaven. Another Reverend Divine I ſee requiring at leaſt half an hour, for young beginners, and one hour for others: another giving twenty heads in the
+<pb n="4" facs="tcp:109876:3"/>explication of the Duty, being requeſite to the right performance of the Duty, I preſume theſe heads will require meditation alſo, and thus we ſhall make the Duty difficulty indeed, at laſt. I very much honour the gifts and graces of theſe worthy men. But when I conſidered the Chri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>unt who complain they cannot come up to theſe men, I obſerved they were warm in their work [not the lazy ſort of Profeſſors] of good un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſtanding in the things of God: ſerious attenders upon all the Ordi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ances of God, in publick, private, and kept their communion with God inſecret Prayer, and Reading. Savoury and Spititual in their converſati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> beautified their Profeſſion: walked humbly and beleivingly with God, yea very ſubmiſſively, under afflicting Providences; very buſie a<g ref="char:EOLhyphen"/>bout cleating out their ſtate, &amp;c. I thought with my ſelf, can all theſe things be done without <hi>Meditation?</hi> I know they cannot be, what then is the matter of their trouble? <hi>They cannot fix their thoughts, especially for an hour, or half hour, upon one ſpiritual object, without other thoughts in<g ref="char:EOLhyphen"/>termixing,</hi> which is the meditation theſe worthy men call for.</p>
+            <p>The queſtion then is not, whither <hi>Meditation</hi> be a Chriſtian Duty, I ſaid enough for that in my Treatiſe, and only add. I will as ſoon beleive a man can be a true Chriflian without <hi>meditation,</hi> as without <hi>Prayer.</hi> But the queſtion is of <hi>meditation,</hi> as it is ſtated in the queſtion; whether that be the duty which God commands his people? That Mr. <hi>Bax.</hi> hath charged it as the Duty, and that of perſons of the meaneſt capacity, Pag.
+<note place="margin">
+                  <hi>Edition</hi> 4th.</note> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1. where he ſumms up all his large diſcourſe about <hi>meditation,</hi> is very plain. I ſhall come to it preſently.</p>
+            <p>It is very true, when I read with what <hi>earneſtneſs you preſs</hi> the Duty, [your own words, p. 146. <hi>Edit.</hi> 4th.] I called for the <hi>Scripture,</hi> to p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove the Duty [as you had deſcribed it and preſſed it] to be the command of God. You had charged the <hi>Conſcience</hi> of your <hi>Reader</hi> with it, p. 251. I hope you will not bind the Conſcience but by <hi>Scripture.</hi> This is that <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fect Law</hi> 19. <hi>Pſal.</hi> 7. This is, <hi>Able to make the man of God perfect.</hi> 2. <hi>Tim.</hi> 3.16.17. If I charge Duty towards God upon a Chriſtian, I will not go <hi>firſt</hi> to my <hi>Reaſon</hi> to prove it: but if the Scriptures will not ſurniſh me ſufficiently, and make me <hi>perfect,</hi> for my proof, the Duty being either <hi>expreſly</hi> mentioned in the true <hi>Senſe</hi>
+               <note n="*" place="margin">I hope ſir, <hi>Veroniu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> with his <hi>verbotim</hi> and I am a<g ref="char:EOLhyphen"/>greed, you might have ſpared your Au<g ref="char:EOLhyphen"/>thor I read him long ſince.</note> of the Scripture, or dedu<g ref="char:EOLhyphen"/>ced by <hi>neceſſary and infallible conſcequence</hi>
+               <note n="*" place="margin">I hope ſir, <hi>Veroniu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> with his <hi>verbotim</hi> and I am a<g ref="char:EOLhyphen"/>greed, you might have ſpared your Au<g ref="char:EOLhyphen"/>thor I read him long ſince.</note> from-Scripture, I will ceaſe charging ſuch a Duty upon Chriſtians. If the Scripture ſpeak it, I am <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e there is <hi>Reaſon</hi> but <hi>my Reaſon</hi> will not alwayes prove <hi>Scripture-rea</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, I obſerve what you ſay p. 12. of the Light of Nature, the <hi>Law of Nature.</hi> But Sir, neither your Reaſons nor my Reaſons will prove a Du<g ref="char:EOLhyphen"/>ty as the <hi>Law of Nature</hi> will do. Men differ much in <hi>their</hi> Reaſons. <hi>Quot Capita, &amp;c</hi>
+            </p>
+            <pb n="6" facs="tcp:109876:4"/>
+            <p>To take a clearer view of your Book, I will draw it into this method, I will conſider
+<list>
+                  <item>1. The <hi>Subject</hi> of meditation.</item>
+                  <item>2. The <hi>Object</hi> of meditation.</item>
+                  <item>3. The <hi>Time</hi> of meditation.</item>
+                  <item>4. <hi>Intermixed thoughts</hi> in meditation.</item>
+                  <item>5. <hi>Methodical</hi>-meditation.</item>
+               </list>
+            </p>
+            <p>Theſe are the things I find in your book, about which our apprehen<g ref="char:EOLhyphen"/>ſions differ ſomething, but I hope in the concluſion will agree.</p>
+            <p>As for that accurate method in the Lords Prayer, unto which method we are ſo bound, that if we obſerve it not, we ſin, p. 9.29. I underſtand it not, therefore I admire it, and can ſay nothing to it, but I dare ſay there will be a ſin brought to light, which the world never heard of be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>Firſt then for the <hi>Subject,</hi> the Perſons who are bound to meditate. I read, p. 8. you charge me with <hi>Unrighteous dealing, that I had carryed it, as if you had made that manner [of meditation ſtated in the Queſtion] to be</hi> all <hi>mens, or</hi> moſt <hi>mens Duty.</hi> And below in the ſame <hi>page</hi> thus <hi>You ſee I make it not ſo much as a Duty to any that have not</hi> Ability and conveni<g ref="char:EOLhyphen"/>ency. That, p. 4.5.6. <hi>you had ſaid this will not prove every mans Duty, Servants, Poor, the children of poor and carnal Parents</hi> are exempted.</p>
+            <p>Hold a little I pray Sir, what do you mean by <hi>Ability?</hi> for I find none exempted, but <hi>melancholy perſons, and ſome weak headed women,</hi> p. 28. I ſuppoſe you exempt theſe upon that ſcore: but I am confident we ſhall find thouſands of ſincere Chriſtians beſides ſuch, that are <hi>unable</hi> to hold their thoughts fixed to one Heavenly object, for one hour, or half hour, without other thoughts intermixed, as you have charged them.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.|What is the reaſon Sir, that in this Treatiſe againſt me, you have put in <hi>Ability</hi> ſeven times, and not <hi>once,</hi> in your large diſcourſe about it, that I can find, pardon me if it be, it ſlips my eye. I looked for it nar<g ref="char:EOLhyphen"/>rowly where you ſumme up all, and there you take notice of <hi>Convenien<g ref="char:EOLhyphen"/>cy,</hi> for the <hi>poor</hi> man, and <hi>ſervant,</hi> but not of <hi>Ability.</hi> Had you there mentioned it <hi>once,</hi> and given a fair interpretation of it, I queſtion whe<g ref="char:EOLhyphen"/>ther you had ever read a line of mine about it.</p>
+            <p>But do you indeed <hi>not</hi> make it the Duty of <hi>moſt</hi> men, nor of <hi>any</hi> that have not <hi>Ability,</hi> &amp;c? then why doth my good Brother charge me with ſo horrible a crime in the next <hi>page</hi> 9. <hi>I like not the reducing the</hi> Rule, <hi>to our impotent ſinful natures, nor to our crooked Lives.</hi> Truly Sir, no more do I, for it is a great ſin. But,</p>
+            <p n="1">1. If this be not a Duty to <hi>moſt</hi> men, not to any <hi>unable,</hi> &amp;c, as you
+<pb n="7" facs="tcp:109876:4"/>ſay, [and it is the caſe of thouſands of ſincere Chriſtians <hi>Vnable</hi> to come <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p to your <hi>Rate,</hi> that I plead] then there is no <hi>Rule</hi> to ſuch, if there be a <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le</hi> to ſuch, then I am ſure it is their <hi>Duty.</hi> How then do I reduce <hi>Gods Rule to our ſinful Natures,</hi> when there is <hi>no Rule</hi> at all?</p>
+            <p n="2">2. If <hi>Gods</hi> Rule doth impoſe the duty as you do, why then did you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> direct me to that Rule, when I called for <hi>Scripture,</hi> to prove the-Du<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>as</hi> you impoſed it to be Gods <hi>Command:</hi> but inſtead of Scripture, you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re me <hi>your reaſon.</hi> Before I would have charged my Brother with ſuch <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſin, I think I were bound, both as Miniſter and Chriſtian, to have gi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n him clear Scripture proof for the point I had aſſerted, which he <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſtioned for want of Scripture proof, and which he called for, but this you are far from. True Sir, you do bring one Scripture to prove what <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>never</hi> in the queſtion: and another to prove ſomething in the que<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion; how aptly, I will examine both in their place: But ſtill the main <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſs or pinch of the queſtion is left deſtitute of Scripture; yet thus you are charged me.</p>
+            <p>To ſay you brought it as an <hi>Argument</hi> againſt me, yea Sir, if you did <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> leave out the Principal ve<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, or rather, the main propoſitions unpro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, <hi>viz.</hi> That <hi>your</hi> Rule is <hi>Gods</hi> Rule, till you have proved this, I pray <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your Argument into a Syllogiſme, and ſee how finely it will run.</p>
+            <p>And now Sir, for my <hi>unrighteous dealing,</hi> as to the <hi>Subject.</hi>
+            </p>
+            <p>Firſt, I pray how do you agree with your ſelf? for p. 145.
+<note place="margin">The <hi>Subject</hi> of <hi>medi<g ref="char:EOLhyphen"/>tation.</hi>
+               </note> you preſs not <hi>Reader,</hi> to the practiſe of this Duty thus. <hi>Elſe thou doſt fruſtrate <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>chief deſign, and makeſt me loſe the cheif of my labour,</hi> be who will <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Reader,</hi> this is your Argument, but in vain it ſeems to <hi>moſt</hi> men. p. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, you tell us, <hi>The want of this Duty, is the cauſe why men digest not, alſo profit not by Sermont.</hi> For want of meditation I think ſo too, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>refore exempt none, p. 251. you ſay, <hi>you bring it down to the meaneſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity,</hi> and charge even ſuch at the end of the Paragraph, <hi>If thou wilt <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>actiſe it, do not read it;</hi> I read no exemption of ſuch in the Para<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h. Then you ſet down the Duty. The ſumm is this. <hi>As thou makeſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſcience of praying dayly, ſo do thou of acting of thy graces in meditation, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> more eſpecially in meditating of the joyes of Heaven. To this end ſet a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et one hour or half an hour every day, &amp;c. intermix other matters no more <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it, then you would do in Prayer.</hi> p. 153. in that you charge your <hi>Rea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> as he <hi>maketh conſcience of Prayer dayly,</hi> ſo &amp;c. here you put as much <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty upon it, as upon Prayer, and bind the conſcience to it; but I will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay that <hi>Prayer</hi> is not a Duty for <hi>all</hi> perſons, be they <hi>poor, ſervants, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, melancholy perſons,</hi> or <hi>unable,</hi> all having the uſe of Reaſon are <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>d to it, but if your Reaſons will ſerve to ſalve them from the Duty <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Meditation,</hi> they will as well from Prayer.</p>
+            <p n="2">
+               <pb n="8" facs="tcp:109876:5"/>2. Let us conſult <hi>Holy writ,</hi> which muſt determine you and me. The grand Text for <hi>meditation</hi> is 1 <hi>Pſal.</hi> 2. in other Scriptures we find <hi>David</hi> putting this Rule into practiſe, now this Text exempts not <hi>ſervants,</hi> or <hi>poor,</hi> or, <hi>most</hi> men, but <hi>that</hi> perſon that will be <hi>bleſſed,</hi> be what he will, here is his Duty, he muſt <hi>meditate in the Law of God day and night.</hi> I know no Text that warrants me to teach ſuch diſtinctions of <hi>meditation,</hi> whereof <hi>one</hi> is <hi>not</hi> the Duty of <hi>All</hi> men or <hi>moſt</hi> men <hi>Another</hi> is the Duty of <hi>All</hi> men. Therefore I ſtated the queſtion according to the Scripture.</p>
+            <p n="3">3. Though <hi>Rich</hi> men and <hi>Maſters,</hi> having more time and liberty may be more frequent in Religious duties, yet it is not the having the moſt <hi>time</hi> and liberty, which will make a man <hi>Able</hi> to meditate, and to con<g ref="char:EOLhyphen"/>tinue in the Duty: but <hi>Ability</hi> is <hi>All</hi> in this point, and that depends.</p>
+            <p n="1">1. I may ſay ſomething upon the conſtitution of the body, ſome be<g ref="char:EOLhyphen"/>ing of a more <hi>volatile,</hi> ſome of a more <hi>fixed</hi> conſtitution.</p>
+            <p n="2">2. Upon the ſtrength of the <hi>invention</hi> being able to expatiate upon a ſubject, which though but a common gift, yet is very eſſential to the <hi>length</hi> of meditation which the queſtion ſpeaks of.</p>
+            <p n="3">3. Upon the <hi>degree of grace</hi> infuſed, the more the <hi>will and affections</hi> are ſanctified, the work is the eaſier.</p>
+            <p n="4">4. Upon the <hi>degree of the gracious and aſſiſting preſence</hi> of the <hi>Spirit,</hi> of God: who being the firſt cauſe in <hi>Nature</hi> and <hi>Grace</hi> acts both the <hi>common</hi> gift of the <hi>Invention,</hi> and the <hi>ſpecial</hi> gift of <hi>grace</hi> influencing the ſoul moſt graciouſly in what <hi>degree</hi> he pleaſeth.</p>
+            <p>Hence, a <hi>poor</hi> man <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay be m<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> more <hi>able</hi> to meditate then a <hi>Rich</hi> man, a <hi>Servant</hi> more able then his <hi>Maſter</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <hi>women</hi> more able then many <hi>men,</hi> becauſe the <hi>invention</hi> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>g<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> the <hi>aſſiſtance</hi> of <hi>Gods ſpirit,</hi> may be much more in the <hi>Poor Servants, Women,</hi> then in the <hi>rich, ma<g ref="char:EOLhyphen"/>ſter,</hi> or <hi>men.</hi> So the exemption you have made in the <hi>Subject</hi> is ground<g ref="char:EOLhyphen"/>leſs, for as for <hi>conveniency,</hi> you tell the <hi>poor</hi> man, and the <hi>ſervant,</hi> they may do it when they are about their <hi>labours,</hi> p. 252.</p>
+            <p n="2">2.
+<note place="margin">
+                  <hi>The Ob<g ref="char:EOLhyphen"/>ject of our</hi> Me<g ref="char:EOLhyphen"/>ditation</note> For the <hi>Object</hi> of meditation. It is the <hi>whole word of God.</hi> So ſaith the Text, 1 <hi>Pſal.</hi> 2, In his <hi>Law</hi> he meditates.</p>
+            <p>There is not <hi>one particular</hi> Object which the Scripture hath bound us up unto, that upon this you muſt meditate every day. The varieties of Providences, temptations, the ſtate, condition and frame of the Soul, with ſeveral things, make differences here, why then ſhould we ſtint Chriſtians to <hi>one</hi> object every day; I take notice of your words p. 31: <hi>What ever elſe I think of, of Chriſt, of Scripture, of Promiſes, of Threat<g ref="char:EOLhyphen"/>nings, of Sin, of Grace,</hi> &amp;c. <hi>If I leave out Heaven and make it not the cheif part of my meditation, I leave out the ſenſe and life of all.</hi> Thus from your
+<pb n="6" facs="tcp:109876:5"/>example and experience, you prove that <hi>Heavens joyes and reſt,</hi> muſt be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Object</hi> of our Meditation every day, and is this ſufficient I pray, to charge a Duty upon Chriſtians in that manner you have done?</p>
+            <p>Beleive it Sir, we that are of the low form in the School, can find <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch things in our Meditations upon our dear <hi>Chriſt,</hi> the <hi>Promiſes,</hi> the <hi>Scriptures,</hi> and <hi>Grace,</hi> that could we but experience them in our hearts, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> would not fear but we ſhould find <hi>Ioy</hi> upon earth aboundantly, a be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing of Heaven, though we do not meditate upon the <hi>joyes</hi> and <hi>reſt</hi> a <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ming: and I muſt profeſs to you again, unleſs I can in ſome good <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſure experience them, the thoughts of <hi>Reſt a coming,</hi> afford little joy <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me.</p>
+            <p>There may be much <hi>heavenly-mindedneſs,</hi> though the Soul doth not <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ally meditate upon the <hi>Ioyes</hi> and <hi>Reſt</hi> that ſhall be in Heaven every <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>The cheif and main thing an unconverted perſon ſhould meditate up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is, his ſinful and miſerable ſtate he is in, out of Chriſt. Yet I deny not, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Ioyes</hi> and <hi>Reſt</hi> in Heaven are an object, for the unconverted and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the converted, though not aſſured of their converſion, to meditate <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o, ſo that you might have ſpared your Arguments, p. 25.26.27. I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w not who oppoſe you, the great difference you mention is none at <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>Yet this I ſay again, Chriſtians that are preſſed with the ſenſe of guilt, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the continual aſſaults of impetuous and ſtrong corruptions, cannot <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> redemption applyed, cannot experience the Goſpel, and Chriſt in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> execution of all his offices though they ſeek and wait for help: Theſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſlians will have little pleaſure to think of <hi>Rest</hi> and <hi>Ioyes</hi> in Heaven, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will more increaſe their ſorrows, for want of a title apprehended. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that hath nothing but an <hi>hereafter</hi> [which rather terrifies to think of] <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſatisfie his hungry <hi>will</hi> at <hi>preſent,</hi> will be as well pleaſed as a man who <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ngry indeed, and you give him nothing at preſent to ſatisfie, but leave <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this to meditate upon, he ſhall have a rich feaſt three Moneths <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, but till then he muſt faſt.</p>
+            <p>Though a perſon be not able to fix his thoughts half a quarter of an <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon <hi>one</hi> ſpiritual object, but his mind is moving up and down from <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpiritual object to another, but yet out of every object or flower he <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers honey and carries it to his ſpiritual hive, this perſon doth anſwer <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> command as truly, as he that can keep them fixed an hour, for he ſtill <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ditating in the law,</hi> 1 <hi>Pſal.</hi> 2. by what Rule Miniſtersty up Chriſti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, but to <hi>one only</hi> object at a time in the performance of the Duty of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tation, I know not.</p>
+            <p n="3">
+               <pb n="10" facs="tcp:109876:6"/>3.
+<note place="margin">Thirdly, <hi>The time of</hi> Medi<g ref="char:EOLhyphen"/>tation.</note> For the <hi>Time</hi> of meditation, your Rule ſaith, an <hi>hour,</hi> or <hi>half an hour,</hi> and here lay the main ſtreſs of the Queſtion.</p>
+            <p>Sir, I have nothing to ſay againſt <hi>two three, ſix</hi> houres, if God hath gi<g ref="char:EOLhyphen"/>ven to others ſuch large <hi>inventions,</hi> ſtrength of <hi>grace,</hi> and <hi>aſſiſtance</hi> of his ſpirit: but <hi>I</hi> hope it is no part of my ſinful nature, to which <hi>I</hi> reduce Gods Rule, that <hi>I</hi> have not ſuch a <hi>large invention</hi> as Mr. <hi>Baxter</hi> hath, which <hi>I</hi> muſt have before <hi>I</hi> or any other can perform the Duty according to your Rule.</p>
+            <p>This is it <hi>I</hi> miſlike, that where as the wiſdome of God hath determi<g ref="char:EOLhyphen"/>ned no time, we cannot reſt in his wiſdome, but muſt determine the du<g ref="char:EOLhyphen"/>ty to an <hi>hour,</hi> or <hi>half hour,</hi> as you and another worthy Divines have done after you, p. 5. I ſee you have quoted 1 <hi>Pſal.</hi> 2. and 119. <hi>Pſal.</hi> 97. for meditation. But Sir, thoſe Texts do as ſtrongly prove that meditation muſt be <hi>All the day,</hi> as they prove <hi>meditation</hi> to be a <hi>Duty,</hi> and from thoſe Texts I will as well prove that Meditation muſt be <hi>twelve</hi> hours, as you can prove it muſt be <hi>one</hi> hour, and add but this alſo which you have char<g ref="char:EOLhyphen"/>ged that there be <hi>no intermixing of any other thoughts,</hi> then we have a hard Duty indeed. But I know <hi>David</hi> did govern his Kingdome, and his Ar<g ref="char:EOLhyphen"/>my, and had many other thoughts, about other Objects then ſpiritual. So that we muſt have an interpretation given of the Texts, and ſuch a one as I am ſure muſt not determine <hi>hours,</hi> or <hi>half hours,</hi> or <hi>quarters.</hi> But pag. 16, 17. you give me a Syllogiſm to prove your determination, and tell me you will not <hi>give me a Text for the Concluſion.</hi>
+            </p>
+            <p>Sir Syllogyſms are not all on your ſide. But for your Syllogyſme what doth it prove more then I had ſaid before? <hi>that a Chriſtian endeavour ſhould be, to get his affections wound up to a ſuitableneſs to the object he is meditating upon, that ſo the end may be attained,</hi> this you acknowledge, p. 22. <hi>I</hi> had ſaid, and muſt <hi>I</hi> determine <hi>one</hi> hour or <hi>half hour</hi> for this? it may be it may coſt <hi>two</hi> hours, a man may have ſuch woful ſtrugling with his corrupt heart that he cannot get up, it may be another time a quarter, half a quarter may do, I determine no time, my reaſon is, and therein <hi>I</hi> ſhall anſwer the flout you have given me, p. 22. [I know not how to inter<g ref="char:EOLhyphen"/>pret it elſe] <hi>how happy a heart have you that will ſo eaſily be got up,</hi> &amp;c. O Sir, how <hi>corrupt</hi> a heart <hi>I</hi> have <hi>I</hi> feel, but though I have not your parts, nor grace, yet <hi>I</hi> have ſo much acquaintance with the wayes of God, that <hi>I</hi> know the Spirit of God may and doth ſometimes, give in that to a ſoul, in a quarter or half quarter of an hour, or leſs, which may coſt him ſeve<g ref="char:EOLhyphen"/>ral hours another time, and many Prayers, but cannot reach it, and do you think there are none of the people of God will joyn with me, in wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>I</hi> ſay?</p>
+            <pb n="11" facs="tcp:109876:6"/>
+            <p>I obſerve you, p. 18. while you prove the defining of the time not to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>preſumptuous</hi> (as you term it (you put this queſtion to me, <hi>Suppoſe I ſay <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the maſter of a family, you that have Ability, may do well yea it is your <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y oft times</hi> [once a day, &amp;c.] <hi>to ſet</hi> ſome time <hi>a part to ſpeak methodi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dly to your family: would you call for a Text to prove this duty? I will give Deut.</hi> 6.7.8. <hi>and Deut.</hi> 11. <hi>&amp;c.</hi>
+            </p>
+            <p>To which <hi>I</hi> anſwer, <hi>I</hi> obſerve two words in your Argument, which doubt will prove you guilty of Sophiſtry. 1. Here <hi>Ability</hi> is expreſſed <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> required, which was not in the Queſtion: and of this before 2. Your <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gument ſaith, <hi>ſome time,</hi> but the queſtion ſaith an <hi>hour</hi> or <hi>half hour,</hi> the <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is determined to one of theſe, but doth he that ſaith, <hi>ſome time,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etermine or define any part of time? what <hi>followes</hi> this is you know, <hi>I</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e it not. Hold to the Queſtion Sir. <hi>I</hi> obſerve p. 23. you argue a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ſt me from a like abſurdity in a Learned Phyſician, that ſaid: <hi>What <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all this adoe in Preaching, when all is diſpatched in three words, think <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and ſpeak well, and do well.</hi>
+            </p>
+            <p>But Sir, you muſt go on, and make your Argument full to anſwer <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, <hi>viz.</hi> that <hi>as he ſaid, ſo he did ſpeak well, he did think well, and did well,</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your Argument is lame, for you confeſs <hi>I</hi> had ſaid the <hi>end and effect</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Meditation <hi>muſt be attained.</hi> Pag. 22. If he <hi>did</hi> as he <hi>ſaid,</hi> where was <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> abſurdity?</hi> ſo where is mine? Sir here is more Sophiſtry in your argu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>.</p>
+            <p n="1">1. Queſtion you put to me p. 22. <hi>If a Chriſtians affections be brought <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a ſuitableneſs to the object, and ſo the eſſence of the Duty is attained, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> do you regard nothing in duty but the eſſence? nothing at all the integri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> degree? &amp;c. I</hi> anſwer.</p>
+            <p>For <hi>integrity,</hi> where the <hi>end</hi> and <hi>effect</hi> are attained, there are all the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſes: then the <hi>integrity</hi> of the duty cannot be denyed: unleſs you will <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>end about the Logical notion of <hi>integrum,</hi> as being <hi>Argumentum <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m a primo,</hi> and <hi>Symbolum effecti,</hi> as the members are <hi>Symbola cau<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> which ſignifie nothing in this point.</p>
+            <p n="1">1. For the <hi>Degree,</hi> the goodneſs of a duty doth not conſiſt ſo much <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e length of time that a perſon takes up in the performance of it, then <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m that prayes three hours and preach four hours dully, be eſteem<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the excellent Preacher.</p>
+            <p n="2">2. Why did you not put <hi>two</hi> houres or <hi>four,</hi> when you charged the <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon your Reader? for this would be a higher degree then <hi>one</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, if <hi>degree</hi> was the thing you aim'd at?</p>
+            <p n="3">3. But good Sir, let ſincere Chriſtians have firſt ſuch inventions as you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, [which muſt be if the <hi>length</hi> make the degree] let them have the <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e ſtrength of <hi>grace,</hi> and <hi>aſſistance</hi> of the ſpirit. Let not him that hath
+<pb n="21" facs="tcp:109876:7"/>
+               <hi>five</hi> Talents and can improve them, make his improvement a Rule for him that hath but <hi>one</hi> Talent or <hi>two</hi> Talents, when theſe are faithful in improving <hi>two</hi> or but <hi>one.</hi> Becauſe they are <hi>unable</hi> to hold long, therefore they endeavour to be <hi>frequent,</hi> and <hi>often</hi> in it, (as I ſaid, and ſhall have occaſion to mind you of theſe words preſently.)</p>
+            <p n="4">4. If one meditate <hi>two</hi> hours, but he comes not up to the <hi>end</hi> of medi<g ref="char:EOLhyphen"/>tation which he ought, another meditates one quarter of an hour, and attains the <hi>end</hi> which is beſt?</p>
+            <p>I find p. 14. you make an argument againſt me from what I had ſaid my ſelf, <hi>viz. that if a man can thus meditate ten hours, he is the happier man and had cauſe to bleſs God.</hi> Therefore ſay you, <hi>it is ſome ment Duty.</hi>
+            </p>
+            <p>I anſwer. Had you charged none with the <hi>Duty,</hi> but thoſe who were <hi>Able</hi> to do it, as you deſcrib'd it, you had ſaid ſomething now, and its poſſible I had ſaid nothing at all, but your diſcourſe ran generally to your Reader, though of the meaneſt capacity, and your exceptions I have be<g ref="char:EOLhyphen"/>fore conſidred.</p>
+            <p n="2">2. I ſhall yet deny your <hi>Conſequence</hi> A man <hi>prayes</hi> this day <hi>two hours,</hi> therefore, it is his duty to pray once <hi>every day two hours,</hi> nay if it were to charge it once a week to be his duty, having <hi>Ability</hi> and <hi>Conveniency,</hi> Preach it, or Print it who will, not I, leſt when I be called to prove it, I ſhould ſay to him, <hi>I ſhall give no Text but a Syllogiſme.</hi>
+            </p>
+            <p n="3">3. It will not follow to be his <hi>Duty,</hi> every day thus to meditate, be<g ref="char:EOLhyphen"/>cauſe that this day he could hold out <hi>one</hi> hour in meditation, it was from the aſſiſtance of the good ſpirit, that helped his <hi>invention,</hi> and acted his <hi>grace.</hi> That good ſpirit is a free agent, will not give forth his aſſiſtance the next day, may be not next week or moneth, in that degree which he did this day. My duty is to pray for his aſſiſtance, but his <hi>Aſſiſtance</hi> is none of <hi>my duty.</hi> But it was that Aſſiſtance which made the duty this day thus to be performed, and that which makes Chriſtians in their Duties, at one time differ ſo much from themſelves another time: not like themſelves: I appeal to Chriſtians whether I write falſe Divinity in their experiences, we in the low form, Sir, are fain to own that <hi>good ſpi<g ref="char:EOLhyphen"/>rit,</hi> elſe we find untoward work.</p>
+            <p>I find pag. 12. and 17. You inſiſt much upon an Argument from <hi>Preaching one hour</hi> [that's the Queſtion] <hi>to Meditation one hour,</hi>
+               <pb n="31" facs="tcp:109876:7"/>and leaſt I ſhould deny the conſequence, ſaying, <hi>That Preaching is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e of Divine Inſtitution then Meditation, you ſay you deny it, no</hi> magis <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>minus <hi>heer, &amp;c.</hi>
+            </p>
+            <p n="1">I. Anſwer, firſt, I ever thought that Preaching by <hi>Office,</hi> [and I now no Preaching properly ſo called, but is ſo] was a part of <hi>Inſtitu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed Worſhip,</hi> but that <hi>Meditation</hi> is a part of <hi>Inſtituted worſhip,</hi> I never <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd any Divine that would ſay it. I cannot underſtand that Medi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion is <hi>Worſhip</hi> properly, when I examine my ſelf I m uſt do it by Me<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation, But is God the immediate Object of that Act, as I think he is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Worſhip.</p>
+            <p n="2">2. What Sir, muſt we Preach as frequently as we muſt Medi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e? and muſt we Preach <hi>day and night,</hi> and <hi>all the day,</hi> as we muſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>editate?</p>
+            <p n="3">3. Becauſe when I Preach to a multitude, ſome, Atheiſts, Erro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, Hereticks, others very ignorant and weak, doubtful, dead in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, &amp;c. Therefore I muſt labour to Illighten, Convince, Confute, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orm, and divers things muſt ſall in, that I may come to the end <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>my work [if it be poſſible] and this will coſt ſo convenient time <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not to dunt my Auditory, muſt I needs run over theſe Topicks, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en I am in Meditation with my ſelf? poſſibly when I hear a man <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>each, I underſtand the point, the reaſons &amp;c. as well as himſelf: my <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> poſſibly ſo convinced of the goodneſs of the thing, that it ſaith, I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d in no need of your Reaſons to convince me, or motives to draw <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to conſent; I conſent already: <hi>give me the thing</hi> ſaith my <hi>will,</hi> and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it not be the ſame at home in my Meditation? and yet muſt I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ds require of men as much time at home in Meditation as a Miniſter <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Preaching?</p>
+            <p>Text of <hi>Scripture</hi> you tell me you will not, [becauſe you cannot] <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en me but <hi>your Reaſons,</hi> and what I pray are thoſe Reaſons you have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en me as ſtrong and clear for <hi>one hour</hi> or half, every day in meditati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, &amp;c. as the <hi>Law of nature</hi> you tell me of? Let the Learned Reader <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ge.</p>
+            <p>To conclude this Head you tell me: <hi>By all this I conjecture, that you <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l be a gentle cenſurer of Miniſters that Preach</hi> ſhort <hi>and</hi> ſeldome: <hi>and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rents that are ſhort and ſeldome in inſtructing their family, &amp;c.</hi> p. 24. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>before this p. 17. thus, <hi>If</hi> ſhort <hi>and</hi> ſeldome <hi>Preaching to others be all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is any Preachers duty, murmure not that you are ſilenced, but write to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iſters to ſpare the Biſhops the labour and odium and to ſilence themſelves, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their long <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nneceſſary Sermons.</hi>
+            </p>
+            <pb n="14" facs="tcp:109876:8"/>
+            <p>I pray, Brother, what do you mean by this? I ſhall return no anſwer but let the Reader judge of it, only as there is another charge of ſome<g ref="char:EOLhyphen"/>thing like ſin, let me clear my ſelf if I can.</p>
+            <p>Sir, had you but ſo much charity to have ſuſpended your <hi>Conjectural<g ref="char:EOLhyphen"/>cenſure,</hi> till you had enquired any way, of the Pariſh or corner where I Preached, whither in my <hi>practiſe</hi> [which is the beſt proof of a mans opi<g ref="char:EOLhyphen"/>nion] I was ſuch a <hi>ſeldome</hi> and <hi>ſhort</hi> Preacher, I doubt not but you would have met with a loud confutation.</p>
+            <p n="2">2. I pray whence do you draw this conjecture? I hope from thoſe words but five or ſix lines below the words which you have tranſcribed in the ſame Paragraph. I had been ſpeaking of Meditation when it had attained its end, and if the end be attained, then my words are theſe, <hi>If this Meditation for the</hi> time <hi>be not a quarter of an hour, or half quarter, but</hi> often <hi>in a day [as thoſe who are plagued with their hearts, are put upon theſe meditations frequently] will not this Meditation anſwer the Scripture medi<g ref="char:EOLhyphen"/>tation, &amp;c.</hi>
+            </p>
+            <p>I pray Mr. <hi>Baxter,</hi> are <hi>often frequent</hi> and <hi>ſeldom,</hi> Synonoma's? did not I expreſly uſe the words, and yet will you conclude me to be a <hi>gentle cenſurer</hi> [a little ſofter word for a <hi>Favourer</hi>] of <hi>ſeldome</hi> Preaching? Sir, I leave it with your own conſcience.</p>
+            <p>For <hi>length</hi> or <hi>ſhortneſs</hi> of Preaching inſtruction of Families, and Prayer, &amp;c. they ought ſo to be performed, as become the Majeſty of God, and may moſt conduce to their <hi>end.</hi> Ordered with ſuch prudence, that the affections of people, ſervants, children, be not made dull, and diſcour<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ged from attending upon ordinances, through tedious and imprudent prolixity: Let the Appetite and affections be kept up. This I am ſure a<g ref="char:EOLhyphen"/>grees with Scripture, 5 <hi>Eccleſ.</hi> 2. in the firſt place, then with Reaſon ſo<g ref="char:EOLhyphen"/>lid and ſound. This hath been approved and practiſed, by holy and ju<g ref="char:EOLhyphen"/>dicious men, I could name ſome of our own Divines, and among forreign Divines there wants not proof. The Churches of <hi>Bohemia,</hi> if credence may be given to the Hiſtory of them [and why it ſhould not I know not] had ſo much Goſpel-ſimplicity amongſt their members as is not to be found, but in few Churches. In thoſe Churches the longeſt Sermon on the Sabbath, was not above one hour, with the Ordinance of ſinging joyned to it. It was a Law among them, that long Sermons ſhould be avoided, leſt people ſhould loath their ſpiritual food. So <hi>Comenius</hi> tells us, <hi>Hoc potius legis inſtar eſt, ut concionum prolixitas vitetur ad evita<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> dum in auditoribus faſtidium</hi> in other exerciſes, but half an hour at a time.</p>
+            <pb n="15" facs="tcp:109876:8"/>
+            <p>The Author of the book, Entituled, <hi>Sacrilegious deſertion, of the holy <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>niſtry rebuked</hi> [it may be Mr. <hi>Baxter</hi> knows the Authors name] pag. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. <hi>Exhorts the Non-Conformiſts in ſome Pariſhes to Preach but once a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, telling them, people cannot hear and digeſt three Sermons in a day <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>; and in the end of that Paragraph, tells them,</hi> it is Preaching well, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> more affecteth people, then Preaching</hi> Long <hi>and</hi> Often. I am of the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ne opinion with this worthy Autho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and wiſh that as Satan ſometimes <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> play his game, while he puts on ſome Chriſtians [eſpecially young <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ginners] to be often at Prayer, thereby to tire them out; ſo that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do not play his game in that ſo often Preaching, in the great City, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d other places, many Hearers at laſt proving no other then <hi>Glutted <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>maliſts:</hi> But ſhall I ſay of this Author, what a frien<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is he to <hi>Seldome</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <hi>Short</hi> Preaching? that ſpeakes againſt <hi>Long</hi> and <hi>Often</hi> Preaching?</p>
+            <p>I come to the fourth head.
+<note place="margin">4th. <hi>Head</hi> In<g ref="char:EOLhyphen"/>termix<g ref="char:EOLhyphen"/>ing.</note> 
+               <hi>The intermixing other matters in the time <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>formance of the Duty, no more then in Prayer,</hi> of this you tell me pag. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>you oft mention it.</hi>
+            </p>
+            <p>I pray Sir, how often is <hi>once?</hi> excepting in the queſtion where I muſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t it, becauſe you had ſo charged it, p. 153. but elſe I find not that I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k of it above <hi>once,</hi> and there with juſt complaint againſt my ſelf for <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ficklenefs, inconſtancy, of my quickſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver thoughts; but I oppoſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not that I ſee, only in the end of my Paragraph, I ſpake doubtfully, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther if they did croud in, they were as ſinful, as in <hi>Prayer,</hi> you ha<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g charged your Reader as much againſt them in <hi>Meditation,</hi> as in <hi>Pray<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> I annexed my Reaſon, becauſe, Prayer was ſuch Divine worſhip that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>deal therein <hi>immediately</hi> with God: but in meditationwe do not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l alwayes immediately with God. I may have many thoughts of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, when yet I cannot be ſaid to worſhip God in thoſe thoughts, they <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> immediately terminate in my ſelf, to help me on in my chriſtian <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe and warfare. Now to my reaſon you give me no anſwer at all. I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w no ſerious Chriſtian, that would careleſly, willingly, admit other <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ghts to hinder the end he aimes at in Meditation. But whether the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you bring do prove thoughts crouding in, to be as ſinful as in <hi>Pray<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> for this was the queſtion] I will conſider. Your Text is <hi>Eccleſ.</hi> 9.10. <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſoever thy hand findeth to do, &amp;c.</hi> The ſenſe of the Text muſt firſt be <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed into. Now,</p>
+            <p n="1">1. Here I find Mr. <hi>Cartwright,</hi> Mr. <hi>Pemble,</hi> and <hi>Innius</hi> as I underſtand <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by his Notes on the 7. <hi>v.</hi> (with him) take this verſe with ſome ver<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eceding, to be the language of the Epicure, Mr. <hi>Cartw.</hi> in his <hi>Ana<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> ſeems to carry it ſmoothly, theſe are men of no ſmall note, and if <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then it is nothing to the purpoſe.</p>
+            <p n="2">
+               <pb n="16" facs="tcp:109876:9"/>2.
+<note place="margin">
+                  <hi>Quic<g ref="char:EOLhyphen"/>quid ali<g ref="char:EOLhyphen"/>quis va<g ref="char:EOLhyphen"/>let, in ſua habere maus aut manu invenire dicitur.</hi> Lorinus in Text.</note> Though they be not the Epicures words, yet the Phraſe, whatſo<g ref="char:EOLhyphen"/>ever thy <hi>hand findeth</hi> needs explication, for the <hi>hand to find a thing,</hi> is for a man to have a thing in his <hi>power,</hi> his hand can <hi>graſp it</hi> he is able to do it, 'tis in his hand, hence the vulgar render it, <hi>quodcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> facere poteſt ma<g ref="char:EOLhyphen"/>nus tua,</hi> and though the Syriak word ſignifieth <hi>invenit,</hi> as well as <hi>potuit,</hi> yet the Tranſlator, render it by <hi>potuit.</hi> Hence the <hi>Calde</hi> apply it to gi<g ref="char:EOLhyphen"/>ving of Alms: becauſe a Rich mans <hi>hand</hi> hath wherewithal, he hath the <hi>power,</hi> add the <hi>will.</hi> Thus if we compare Texts [the beſt way of interpretation] 25. <hi>Levit.</hi> 26.28. in both the verſes the word <hi>Able</hi> as we tranſlate, the Hebrew words are the ſame in this Text. <hi>His hand hath found, &amp;c.</hi> or, <hi>His hand hath not found ſufficiency,</hi> that makes him able, thus again. <hi>Iudg</hi> 9.33. latter end. Do as thy <hi>Hand ſhall find,</hi> the ſame words, but now are ſpiritual things, the things of eternal concernment, within our <hi>graſp?</hi> have our <hi>hands found</hi> them? &amp;c. When I was in the Miniſtry, I had a deſire to have handled the Text, in reference to ſpiritual things, but upon ſerious weighing the Text, I laid by my thoughts: to have very good things ſpoken from a Text, and the Text not the true mother of the children, I did not like it.</p>
+            <p n="3">3. But make the moſt you can, it will amount to ſeriouſneſs and dili<g ref="char:EOLhyphen"/>gence in Meditation, but it will not prove that <hi>by thoughts creeping in are as ſinful as in Prayer:</hi> and that is the queſtion.</p>
+            <p>Now I come to the laſt, your <hi>Methodical Meditation,</hi> a new notion that I never met with before, and no part of the queſtion.</p>
+            <p>That there muſt be a ſerious pondring of things in the underſtanding, before we can apply them to our hearts, ſo as to have our hearts wrought up to a ſuitableneſs with the objects we meditate upon, is very true: and if this were all you meant by <hi>Methodical meditation,</hi> it would be yeilded the act is not <hi>Rational</hi> without it. But I ſee you have other notions, as your argument from Preaching declares, p. 12. where you tell me, <hi>Me<g ref="char:EOLhyphen"/>ditation is a preaching to our ſelves, and therefore look what order is in prea<g ref="char:EOLhyphen"/>ching, the ſame may be in Meditation; and here you run through all the parts of a Sermon,</hi> and for this Duty you give me a Text to prove it, 1 <hi>Cor.</hi> 14. <hi>ult, Let all things be done in order,</hi> p. 11th.</p>
+            <p>Sir, I think that is <hi>orderly</hi> Meditation, and tending to <hi>edification,</hi> which I have mentioned, and I know no other order. Here I perceive you put in <hi>Ability</hi> again. But why I pray do you bring a Text to prove a Duty, and tell us what is orderly Preaching, and then when you apply it to Meditation ſay that order <hi>may</hi> be in Meditation, which <hi>is a preaching to our ſelves?</hi> I doubt it <hi>muſt</hi> be, if the Text will prove what you bring it
+<pb n="17" facs="tcp:109876:9"/>for, and there be no orderly preaching but what you have ſet down. Do Texts which command duty, prove only <hi>May bee's?</hi> but to the Text, which is but the general concluſion of the 11.12. and 14. <hi>Chapters,</hi> le<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lled againſt the <hi>undecency</hi> and <hi>diſorder</hi> among the <hi>Corinthians,</hi> of which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> read in thoſe Chapters. And this is a ſtanding Rule for <hi>all Churches,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>all Church-Acts,</hi> in <hi>all Ages,</hi> that <hi>Order</hi> be obſerved. In our interpre<g ref="char:EOLhyphen"/>ing of Scriptures, the ſcope, the circumſtances, and ſeries of the Text, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat went before and what followes, muſt be the guide for interpreta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. <hi>Hilari</hi> ſaith true, <hi>Intelligentia dictorum, ex cauſis ſumenda eſt di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is,</hi> this is very clear to any man that reads the Chapters, but <hi>Medi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> was not in the leaſt the ſubject of the Apoſtles diſcourſe before, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Church-affairs.</hi>
+            </p>
+            <p n="2">2. This <hi>Order</hi> was ſuch as might be <hi>ſeen,</hi> [as was their <hi>diſorder,</hi> in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 11. and 14 <hi>Chap.]</hi> or come under the cognizance of others who be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed them. Had <hi>Paul</hi> been preſent bodily in the Church of the <hi>Coloſſians</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> might have ſeen the order. 2 <hi>Col.</hi> 5. <hi>Beholding your order.</hi> True, <hi>Paul</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he was with them <hi>in ſpirit beholding their Order,</hi> &amp;c. how he could <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old their carriage in the exerciſe of Church-diſcipline [ſo I perceive <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>derſtand this <hi>order]</hi> 1080, miles with his eyes, <hi>Rome</hi> being ſo far <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ant, as ſome ſay, I know not; but had he been preſent as <hi>Epaphras</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and from whom as ſome think he had his relation] he could have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it is <hi>Epaphras</hi> did. I can ſee Order in an Army in the field, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are vocabulum eſt, &amp; denotat cohortem militum inſtructam, &amp; ordine <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lobatam.</hi> But can <hi>Paul</hi> or any man behold the <hi>immanent acts</hi> of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſoul [as Meditation is] in another perſon? then he could not ſee <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, or <hi>diſorder</hi> there.</p>
+            <p n="3">3. This Text admits of no ſuch limitations as <hi>Ability</hi> and <hi>opportunity.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſo, the ſenſe muſt run thus, <hi>Let all things be done in order, if you have A<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and opportunity.</hi> So that if this Text have any reſpect to Meditation, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ds all, without limitations; will this ſalve the <hi>diſorder</hi> in Churches, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Ability?</hi> are not Churches bound to <hi>order</hi> unleſs they have <hi>Abi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> but you bind none by the Text, but thoſe that have it.</p>
+            <p>As for the blame you ſeem to lay upon me, p. 15. <hi>that I had not read <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> her writings, in which you had added limitations, &amp;c.</hi> Sir, I read a <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mat had four times paſſed the Preſs, and you might have corrected <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you ſaw cauſe, but I ſee you have not in the 9th. Edition by what you <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cribe; and what you tell me out of your other books do as little <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it. To read all your books, would coſt me more money, then I can <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpare to buy them, but much leſs ſhould I find time to read them. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ell the world, that I am but a gentle cenſurer of <hi>ſoldome and ſhort
+<pb n="20" facs="tcp:109876:10"/>Preaching</hi> &amp;c. [how truly let the Reader judge] but had you added <hi>ſhort writings,</hi> I aſſure you, I would not have cenſured you at all, but ra<g ref="char:EOLhyphen"/>ther thanked you for them. You tell me p. 16. <hi>I ſhould underſtand your writings before I oppoſe them,</hi> which it ſeems I did not, <hi>becauſe I ſuppoſe that which you wrote of the Common neceſſity of the meditation of Heaven, to be written alſo, to prove or urge the ſame neceſſity of the length or me<g ref="char:EOLhyphen"/>thod.</hi>
+            </p>
+            <p>Truly Sir, I am not ſo ſimple but I underſtand what an <hi>hour</hi> or <hi>half hour</hi> is, which in the <hi>brief ſum</hi> of all your diſcourſe, you charge your Reader with. I think you intend as you write.</p>
+            <p n="2">2. If <hi>length</hi> be nothing, why am I judged a gentle cenſurer, of <hi>ſhort</hi> Preaching by you, and repeat <hi>ſhortneſs</hi> ſo often?</p>
+            <p n="3">3. Why do your Syllogiſme endeavour to prove, the <hi>hour</hi> or <hi>half hour,</hi> [or <hi>quarter,</hi> which now you put in]? this is all I meddle with, but what the <hi>Length</hi> or <hi>Method</hi> is of your diſcourſe, I did not ſo much as think of it, not had the leaſt reſpect to it, therefore I doubt you are mi<g ref="char:EOLhyphen"/>ſtaken much in this.</p>
+            <p>No duty that God requires but the performance of it hath a tendency to our ſalvation. So hath this of <hi>Meditation:</hi> and if God requires the per<g ref="char:EOLhyphen"/>formance of it, in that <hi>manner</hi> you have charged, and that as we make conſcience of Prayer dayly, then we muſt endeavour to perform it in every particular, as you have deſcribed it: elſe our hopes of Salvation will be ſhaken.</p>
+            <p>But how did I <hi>invite you</hi> to a Review, as your <hi>Title</hi> ſpeaks, when I never mentioned one letter of your Name, and another hath required as you, an <hi>hour</hi> or <hi>half hour,</hi> and that Heaven may well be an Object none deny; this made all that I meet with, wonder to ſee my name put in your Title page.</p>
+            <p>And now Reverend Sir, [whoſe graces and gifts I do highly honour] I have given you as clearly as I can, an account of thoſe heads, in which our apprehenſions ſeemed to differ; but if that be <hi>All</hi> which you deſire as to this Meditation, <hi>viz.</hi> to underſtand and practiſe theſe two Texts <hi>Mat.</hi> 6.21. <hi>Phillip.</hi> 3.20. As you tell me, p. 30. I aſſure you I am fully a<g ref="char:EOLhyphen"/>greed with you: and never ſhall there be one line more written by me in oppoſition to you. I am ſure we are <hi>All</hi> bound to <hi>have our converſati<g ref="char:EOLhyphen"/>on in Heaven, where our treaſure is there will our hearts be,</hi> without any li<g ref="char:EOLhyphen"/>mitations to <hi>Ability</hi> and <hi>opportunity,</hi> the Duty bind <hi>All.</hi>
+            </p>
+            <p>Let me but have a few words to the ſerious, and ſincere Chriſtians, who are much troubled about this Duty, and I have done; what is the reaſon of your trouble, and diſcouragement from this Duty more then
+<pb n="17" facs="tcp:109876:10"/>any other, is it becauſe you cannot <hi>Meditate?</hi> are you not miſtaken? Do you not in this Duty, as you do about Prayer, when you hear ano<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er pray one hour or two together, fluent in expreſſion, various in mat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, warm in affections, you cannot pray, no not you, when your Prayers may be as acceptable to God as his, though you cannot pray half <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hour, is it not the ſame in Meditation? I grant Meditation is not a rock for Hypocrites, no more then ſecret Prayer. I ſpeak of <hi>Prayer,</hi> indeed: ſuch <hi>as call upon God in truth.</hi> 145. <hi>Pſal.</hi> 18. Such ſecret <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yer will either beat the mans Luſt out, or his Luſt will beate <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſecret Prayer. So it will be with Meditation, if a man medi<g ref="char:EOLhyphen"/>tates indeed.</p>
+            <p>But do you not Meditate? as I ſaid in the beginning, I know ſome of you, very diligent in reading the Holy Scriptures, ſo as the word of <hi>Chriſt dwells richly in you, Coll.</hi> 3.16. I know you to be thoſe who are <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch in heart-ſearching, very fearful of Hypocriſie. I know you to be <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y ſerious in attending upon all the Ordinances of God, deſiring and labouring to improve them to your ſpiritual growth; I know you to be my ſavoury, you reliſh the things of Heaven; I know you to be very <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>der of offending God, I know you to be in a great meaſure crucifi<g ref="char:EOLhyphen"/>ed to the world. I know you humble, and low before God, ſubmiſſive under his afflicting hand, or very much chiding your own hearts if they <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er to grumble, and earneſtly begging for the ſanctified fruit of your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions; ask I pray thoſe worthy and holy men, whoſe Sermons and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ks about <hi>meditation</hi> have ſo troubled you, whether, theſe can be with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Heditation? with honour to thoſe worthy Divines, I ſhould exa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that Sermon, or book very well, what that Doctrine is, that cauſe noble, and ſad the hearts of ſuch as theſe, and make ſure it hath a Divine <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p upon it, elſe I ſhould be blame worthy.</p>
+            <p>Obj. <hi>But I cannot fix my thoughts one hour, or half hour, no not a <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ter.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> What then? which Command of God do you break? hath <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſet down hours, or half hours? Let us hear the Text. But though you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fix ſo long, yet,</p>
+            <p n="1">1. Have you not the <hi>ſavour</hi> of the thing upon your ſpirit which you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> meditating upon, is there not ſome ſuitableneſs left between your <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ection and the Object, for the time, though you are but ſhort?</p>
+            <p n="2">2. Are not your thoughts <hi>often</hi> in a day upon one or other ſpiritual Ob<g ref="char:EOLhyphen"/>je<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t? what though you cannot ſtay long upon <hi>one,</hi> but going off to ano<g ref="char:EOLhyphen"/>ther, like the Bee, but ſtill gathring Honey, what then, what will this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gne, want of Grace, obedience to a command? let them name it, that
+<pb n="20" facs="tcp:109876:11"/>affirm it, it ſeems you are meditating in the law.</p>
+            <p n="3">3. If there ariſeth a ſuſpition of Hypocriſie, if ſome vile corruption be ſtirring, if <hi>fear</hi> be up, or <hi>love</hi> enlarged from apprehenſions of Gods love, then you can fix for longer time, though I will not ſay with no other thoughts intermixed.</p>
+            <p n="4">4. Prayer is an eaſier Ordinance then fixing the thoughts in medita<g ref="char:EOLhyphen"/>tion to one object: but what if you cannot pray one hour or half an hour at a time every day, what then? you do pray and that ſeriouſly; let them who will blame you for not praying ſo long every day, at one time, prove where God hath bound his people to ſuch length of time every day in Prayer, if not in <hi>Prayer</hi> why in <hi>meditation.</hi> Look to thy ſelf, that thou beeſt ſerious in all, labour to attain the end of duties.</p>
+            <p n="5">5. I obſerve that your converſations are day and night in ſome mea<g ref="char:EOLhyphen"/>ſure becoming your profeſſion [I know you have your infirmities] then certainly you do <hi>meditate day and night</hi> in the Law of God, elſe I know not how you come to have your converſations ſo ordered, whether you meditate by half quarters, or quarters, or half hours, or two houres, I know not, nor do I regard as to any command that binds you to this or that ſet time or place.</p>
+            <p>Why then Chriſtian art thou troubled more about this Ordinance then other Ordinances. I know we have cauſe to be troubled, that in every ordinance we come not up to that holineſs the ordinance require, and there I joyn with you.</p>
+            <p>How perſons that are uniform in their converſations, who except a<g ref="char:EOLhyphen"/>gainſt no command or duty, but have <hi>reſpect to all the Commandments,</hi> 119. <hi>Pſal.</hi> 6. are ſerious in all other Ordinances, and there not ſo much blamed, come to be ſo tardy, and ſo much blamed in this of meditation, I could not well tell: ſuppoſed that work of grace in their hearts, and that good ſpirit dwelling in them, would carry them on in the practiſe of this Duty, as well as the other, unleſs it were that wor<g ref="char:EOLhyphen"/>thy men did ſtrain this Duty in ſome circumſtances beyond what the word of God hath done. Is there nothing that enables one man to be longer in a Duty, but meerly Grace in the heart of one man more then another; in which though God will ſhew his good pleaſure in giving to one a larger meaſure then another; yet as for <hi>Grace,</hi> you will ſay, that is alike required of all, and our fault it is if we fall ſhort.</p>
+            <p>But is there nothing elſe I ſay but <hi>Grace?</hi> Is there not ſomething that is not properly Grace, but of a more common nature, a common gift, ſtrength and largeneſs of invention, fixedneſs of conſtitution, beſides the preſence of that good ſpirit, who commonly doth give out his aſſiſtance
+<pb n="21" facs="tcp:109876:11"/>
+               <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>rding to his former gifts to the creature, whether thoſe gifts be <hi>Com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> or <hi>Special,</hi> I leave this to the piouſly learned to judge, there was <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> blame I hope imputed to him that had but two Talents, and in<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them but to <hi>four,</hi> not <hi>ten,</hi> 25. <hi>Matth.</hi> 22.23. had he that had but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, been diligent, and increaſed but <hi>one,</hi> I doubt not of acceptance.</p>
+            <p>Beſides conſider we the ſeveral conditions moſt Chriſtians are under, which are no ſmall hindrances, ſome burdned with cares not eaſy to caſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>f, the husbandman when he carried on that which mend his ground, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wed, Sowed, &amp;c. he is aſſured he hath performed his part right as to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e uſe of fit means to his end. But the Phyſician that hath <hi>life</hi> in hand, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not ſo ſure that he hath hit the cauſe of a Diſeaſe, and uſed the fitteſt means for his end. So the cares which others may lye under, variety of occaſions, and buſineſſes, not pulled upon themſelves neither by their covetouſneſs, others their Callings caſt them into all ſorts of compa<g ref="char:EOLhyphen"/>nies, others great charge of children, low, and forced to hard labour to maintain them; others wofully, unequally yoaked, and children it may <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s perverſe; others in debt not able to pay; it peirced my heart, when I had been Preaching of <hi>Faith,</hi> one of my Auditors [who went for a Profeſſor] going from Church, being preſſed with the temptation, burſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>Faith will pay no debts,</hi> ſaid he, I deny not but he was to blame, for <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith hath paid debts. No man can tell what the conditions and tempta<g ref="char:EOLhyphen"/>tions of others are, but thoſe who have been under the ſame conditions <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> temptations every way circumſtantiated. For Gods Rules they muſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preſſed, let mens conditions or temptations be what they will, but for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Rules which I perceive ſome of our late Reverend Divines, [whoſe <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ce I highly honour] have preſſed upon Chriſtians very high for their <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yly practiſe, which if I were asked how I proved this were God's <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mand, that all theſe Rules, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> preſſed, ſhould be dayly practi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, I could not tell; for theſe Rules I have thought with my ſelf, I <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>d never preſs them or Print them my ſelf, unleſs I had paſſed under theſe conditions and temptations, and experienced, how under theſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ditions and temptations I could practiſe theſe Rules my ſelf, yet God <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y give that in to one under ſuch a condition and temptation, which <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> denies to another who is truly Gracious.</p>
+            <p>To conclude. As for the greateſt part of ſincere Chriſtians, this is all <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to ſay, while we have bodies that call for Food, Raiment and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ealth: while we have our Callings to be employed in, and it is a mercy <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have them, being not able alwayes to be feeding upon ſpiritual Ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>, while here we live among preſent ſenſible things, that our nature <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but deſire, while we walk among temptations every where,
+<pb n="22" facs="tcp:109876:12"/>while we live by <hi>Faith</hi> on this ſide <hi>Viſion,</hi> and while we have a body of death yet remaining in us: can they but look to their foundation that it be layed upon the Rock, to their hearts, that they be ſound in Gods Sta<g ref="char:EOLhyphen"/>tutes. Can they by Meditation, and all other Ordinances of Chriſt, the good ſpirit bleſſing all unto them, keep up grace in the prevalency: Can they get and maintain the upper hand of fleſh, World and ſelf. Can they walk in the fear of the Lord, dread ſin, and grow in the love of Chriſt; for my part <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all not preſs them with a multitude of Rules, which I know they cannot practiſe, nor ſhall I tell them how long they muſt be in Duties, but that they be ſerious, and labour to attain the end of all in Duties, for others to whom God hath given larger abilities and grace, they have the more cauſe to bleſs the Lord, but let them not mea<g ref="char:EOLhyphen"/>ſure all by themſelves.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
